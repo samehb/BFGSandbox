@@ -20,8 +20,7 @@ Here is an example using this repo:
 ```
 bfg https://github.com/samehb/BFGSandbox.git passwords.txt
 ```
-9. Hit enter and type your username then password (if you are asked to do so).
-10. You are done.
+Hit enter and type your username then password (if you are asked to do so) and you are done.
 
 Note that BFG Repo-Cleaner assumes you did your part deleteing the file from your repo before using it. The BFG Repo-Cleaner has so many other features. Feel free to check them out. You may use this repo as a sandbox before trying the batch on your repo. Also, make sure you made a backup of your repo before trying the batch, just in case something goes wrong.
 
